@@ -4,9 +4,9 @@
     "description": "The description of the demo",
     "update": 0,
     "files": [
-        "apps/bin/demo.exe",
-        "apps/appData/demo/install.bat",
-        "apps/appData/demo/pdkg.json",
-        "apps/appData/demo/"
+        "bin/demo.exe",
+        "appData/demo/install.bat",
+        "appData/demo/pdkg.json",
+        "appData/demo/"
     ]
 }
